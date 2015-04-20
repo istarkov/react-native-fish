@@ -1,0 +1,14 @@
+{
+  "name": "animation",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "gl-matrix": "^2.2.1",
+    "immutable": "^3.7.2",
+    "lodash": "^3.6.0",
+    "react-native": "^0.3.11"
+  }
+}
